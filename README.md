@@ -12,7 +12,7 @@ This project aims to be a strong foundation for react-native applications. It pr
 # How to use it
 
 * git clone https://github.com/ravi3276/booking-native.git
-* cd insta-native
+* cd booking-native
 * npm install
 * npm start
 
